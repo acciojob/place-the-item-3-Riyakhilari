@@ -3,7 +3,7 @@
 .holder{
 	display:flex;
 	flex-direction:row;
-	align-content:space-evenly;
+	align-content:space-between;
 	background-color:black;
 	padding:10px;
 	width:300px;
@@ -12,7 +12,9 @@
 .item{
 	background-color:lightcyan;
 	padding:20px;
-	align-content:space-between;
+	align-content:space-evenly;
+	flex-direction:row;
 	margin:10px;
+	width:50px;
 	
 }
