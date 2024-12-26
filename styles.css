@@ -7,6 +7,7 @@
 	background-color:black;
 	padding:10px;
 	width:300px;
+	flex-direction:space-evenly;
 	
 }
 .item{
